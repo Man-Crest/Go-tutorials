@@ -1,0 +1,29 @@
+go 1.21.5
+
+use (
+	./00_temp
+	./01_Hello
+	./02_variables
+	./03_userinput
+	./04_typeconversion
+	./05_myTime
+	./06_pointers
+	./07_arrays
+	./08_slices
+	./09_maps
+	./10_structs
+	./11_loops
+	./12_functions
+	./13_customPackage
+	./14_errors
+	./15_defer
+	./16_files
+	./17_diff_writingMeathods
+	./18_fileHandling
+	./19_webRequest
+	./20_urls
+	./21_interfaces
+	./22_go_routines
+	./23_JSON
+	./24_channels
+)
